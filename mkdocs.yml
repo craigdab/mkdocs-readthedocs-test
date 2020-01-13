@@ -14,4 +14,3 @@ theme:
 markdown_extensions:
     - toc
     - codehilite
-      linenums: true
