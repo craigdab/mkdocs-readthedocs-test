@@ -1,0 +1,17 @@
+site_name: openLilyLib mkdocs-test
+
+nav:
+      - Changelog: changelog.md
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+        - lilypond
+
+markdown_extensions:
+    - toc
+    - codehilite
+      linenums: true
